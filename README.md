@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Bença pai
+<p> Bença pai, trabalho com programação e desenvolvimento de sites e jogos (principalmente jogos)!</p>
 <!--
 **vmplayer/vmplayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
