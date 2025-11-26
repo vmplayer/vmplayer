@@ -5,7 +5,7 @@
   <abbr title="CSS3"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/851px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="50"></abbr>
   <abbr title="JavaScript"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/205/full/javascriptlang.png" alt="JavaScript" height="50"></abbr>
   <abbr title="C# (C-sharp)"><img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" alt="C# (C-sharp)" height="50"></abbr>
-  <abbr title="Unity"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi0NAXS7Rma2dHzzrucLevA1vB5grFg97N1w&s" alt="Unity" height="50"></abbr>
+  <abbr title="Unity"><img src="https://cdn.sanity.io/images/fuvbjjlp/production/b749e2a6d2c21623ea89d0443410ba24f1aa420a-512x512.png" alt="Unity" height="50"></abbr>
 </p>
 
 ## Quem eu sou?
