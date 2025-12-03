@@ -1,3 +1,5 @@
+Veja este documento em [Inglês](https://github.com/vmplayer/vmplayer/blob/main/README.en.md).
+
 # Olá. Seja bem-vindo!
 <p> Aqui você encontra: </p>
 <p align="center">
