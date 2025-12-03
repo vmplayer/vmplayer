@@ -1,4 +1,4 @@
-See this document in [Portuguese - Brazil](https://github.com/vmplayer/vmplayer/blob/main/README.md)
+See this document in [Portuguese - Brazil](https://github.com/vmplayer/vmplayer/blob/main/README.md).
 
 # Welcome!
 <p> Here you'll find: </p>
