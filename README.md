@@ -3,11 +3,11 @@ Veja este documento em [Inglês](https://github.com/vmplayer/vmplayer/blob/main/
 # Olá. Seja bem-vindo!
 <p> Aqui você encontra: </p>
 <p align="center">
-  <abbr title="HTML5"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50"></abbr>
-  <abbr title="CSS3"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/851px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="50"></abbr>
-  <abbr title="JavaScript"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/205/full/javascriptlang.png" alt="JavaScript" height="50"></abbr>
-  <abbr title="C# (C-sharp)"><img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" alt="C# (C-sharp)" height="50"></abbr>
-  <abbr title="Unity"><img src="https://cdn.sanity.io/images/fuvbjjlp/production/b749e2a6d2c21623ea89d0443410ba24f1aa420a-512x512.png" alt="Unity" height="50"></abbr>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/851px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="50">
+  <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/205/full/javascriptlang.png" alt="JavaScript" height="50">
+  <img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" alt="C# (C-sharp)" height="50">
+  <img src="https://cdn.sanity.io/images/fuvbjjlp/production/b749e2a6d2c21623ea89d0443410ba24f1aa420a-512x512.png" alt="Unity" height="50">
 </p>
 
 ## Quem eu sou?
