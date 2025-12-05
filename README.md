@@ -18,6 +18,6 @@ Veja este documento em [Inglês](https://github.com/vmplayer/vmplayer/blob/main/
 
 ## Meus repositórios:
 1. HTML5 e CSS3: [Veja aqui!](https://github.com/vmplayer/html-css)
-2. Desenvolvimento de Jogos Eletrônicos: [Veja aqui!](https://github.com/vmplayer/DevJogos-Curso)
-3. JavaScript: [Veja aqui!](https://github.com/vmplayer/javascript)
+2. JavaScript: [Veja aqui!](https://github.com/vmplayer/javascript)
+3. Desenvolvimento de Jogos Eletrônicos: [Veja aqui!](https://github.com/vmplayer/DevJogos-Curso)
 <p>Esta lista ainda se expandirá muito ao longo do ano!</p>
