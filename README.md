@@ -21,3 +21,5 @@ Veja este documento em [Inglês](https://github.com/vmplayer/vmplayer/blob/main/
 2. JavaScript: [Veja aqui!](https://github.com/vmplayer/javascript)
 3. Desenvolvimento de Jogos Eletrônicos: [Veja aqui!](https://github.com/vmplayer/DevJogos-Curso)
 <p>Esta lista ainda se expandirá muito ao longo do ano!</p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F21O8JO8)
