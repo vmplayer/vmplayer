@@ -21,3 +21,5 @@ See this document in [Portuguese - Brazil](https://github.com/vmplayer/vmplayer/
 2. JavaScript: [Check it out!](https://github.com/vmplayer/javascript)
 3. Video Game Development: [Check it out!](https://github.com/vmplayer/DevJogos-Curso)
 <p>This list will grow throughout the year!</p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F21O8JO8)
