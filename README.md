@@ -2,8 +2,6 @@ Veja este documento em [Inglês](https://github.com/vmplayer/vmplayer/blob/main/
 
 # Olá. Seja bem-vindo!
 
-<p> Aqui você encontra: </p>
-
 ### Linguagens nas quais trabalho:
 | Linguagem | Tipo de Linguagem | Nível de Competência Atual |
 | --- | --- | --- |
@@ -12,11 +10,13 @@ Veja este documento em [Inglês](https://github.com/vmplayer/vmplayer/blob/main/
 | JavaScript | Programação | 🟢🟢⚪⚪⚪ |
 | C# | Programação \| Unity | 🟢🟢🟢⚪⚪ |
 
+O nível de competência irá aumentar ao longo do tempo!
 
 ### Meus repositórios:
 1. HTML5 e CSS3: [Veja aqui!](https://github.com/vmplayer/html-css)
 2. JavaScript: [Veja aqui!](https://github.com/vmplayer/javascript)
 3. Desenvolvimento de Jogos Eletrônicos: [Veja aqui!](https://github.com/vmplayer/DevJogos-Curso)
-<p>Esta lista ainda se expandirá muito ao longo do ano!</p>
+
+Esta lista ainda se expandirá muito ao longo do ano!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F21O8JO8)
