@@ -4,7 +4,7 @@ See this document in [Portuguese - Brazil](https://github.com/vmplayer/vmplayer/
 <p> Here you'll find: </p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/851px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="50">
+  <img src="https://github.com/user-attachments/assets/ba2f0dce-d9b8-4bdb-9c1e-257c4c7d5c10" alt="CSS3" height="50">
   <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/205/full/javascriptlang.png" alt="JavaScript" height="50">
   <img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" alt="C# (C-sharp)" height="50">
   <img src="https://cdn.sanity.io/images/fuvbjjlp/production/b749e2a6d2c21623ea89d0443410ba24f1aa420a-512x512.png" alt="Unity" height="50">
