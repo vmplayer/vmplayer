@@ -5,7 +5,7 @@ Veja este documento em [Inglês](https://github.com/vmplayer/vmplayer/blob/main/
 ### Linguagens nas quais trabalho:
 | Linguagem | Tipo de Linguagem | Nível de Competência Atual |
 | --- | --- | --- |
-| HTML5 | Marcação de Hiperlinks | 🟢🟢🟢🟢⚪ |
+| HTML5 | Marcação de Hiperlinks | 🟢🟢🟢🟢🟢 |
 | CSS3 | Estilo | 🟢🟢🟢🟢⚪ |
 | JavaScript | Programação | 🟢🟢🟢⚪⚪ |
 | C# | Programação \| Unity | 🟢🟢🟢⚪⚪ |
