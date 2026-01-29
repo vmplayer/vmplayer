@@ -8,7 +8,7 @@ See this document in [Portuguese - Brazil](https://github.com/vmplayer/vmplayer/
 | --- | --- | --- |
 | HTML5 | Hiperlink markup | 🟢🟢🟢🟢⚪ |
 | CSS3 | Style | 🟢🟢🟢🟢⚪ |
-| JavaScript | Programming | 🟢🟢⚪⚪⚪ |
+| JavaScript | Programming | 🟢🟢🟢⚪⚪ |
 | C# | Programming \| Unity | 🟢🟢🟢⚪⚪ |
 
 Competency levels will improve over time!
