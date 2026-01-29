@@ -6,7 +6,7 @@ See this document in [Portuguese - Brazil](https://github.com/vmplayer/vmplayer/
 
 | Language | Language Type | Current Level of Competency |
 | --- | --- | --- |
-| HTML5 | Hiperlink markup | 🟢🟢🟢🟢⚪ |
+| HTML5 | Hiperlink markup | 🟢🟢🟢🟢🟢 |
 | CSS3 | Style | 🟢🟢🟢🟢⚪ |
 | JavaScript | Programming | 🟢🟢🟢⚪⚪ |
 | C# | Programming \| Unity | 🟢🟢🟢⚪⚪ |
