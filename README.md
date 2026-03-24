@@ -7,7 +7,7 @@ Veja este documento em [Inglês](https://github.com/vmplayer/vmplayer/blob/main/
 | --- | --- | --- |
 | HTML5 | Marcação de Hiperlinks | 🟢🟢🟢🟢🟢 |
 | CSS3 | Estilo | 🟢🟢🟢🟢⚪ |
-| JavaScript | Programação | 🟢🟢🟢⚪⚪ |
+| JavaScript | Programação | 🟢🟢🟢🟢⚪ |
 | C# | Programação \| Unity | 🟢🟢🟢⚪⚪ |
 
 O nível de competência irá aumentar ao longo do tempo!
