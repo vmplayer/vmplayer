@@ -3,16 +3,17 @@ Veja este documento em [Inglês](https://github.com/vmplayer/vmplayer/blob/main/
 # Olá. Seja bem-vindo!
 
 ### Linguagens nas quais trabalho:
-| Linguagem | Tipo de Linguagem | Nível de Competência Atual |
-| --- | --- | --- |
-| HTML5 | Marcação de Hiperlinks | 🟢🟢🟢🟢🟢 |
-| CSS3 | Estilo | 🟢🟢🟢🟢⚪ |
-| JavaScript | Programação | 🟢🟢🟢🟢⚪ |
-| C# | Programação \| Unity | 🟢🟢🟢⚪⚪ |
+| Linguagem | Tipo de Linguagem | Lado | Nível de Competência Atual |
+| --- | --- | --- | --- |
+| HTML5 | Marcação de Hiperlinks | Front-End | 🟢🟢🟢🟢🟢 |
+| CSS3 | Estilo | Front-End | 🟢🟢🟢🟢⚪ |
+| JavaScript | Programação | Back-End | 🟢🟢🟢🟢⚪ |
+| C# | Programação \| Unity | Back-End | 🟢🟢🟢⚪⚪ | Back-End |
+| C++ | Programação | Back-End | 🟢⚪⚪⚪⚪ | Back-End |
 
 O nível de competência irá aumentar ao longo do tempo!
 
-### Meus repositórios:
+### Meus repositórios principais:
 1. HTML5 e CSS3: [Veja aqui!](https://github.com/vmplayer/html-css)
 2. JavaScript: [Veja aqui!](https://github.com/vmplayer/javascript)
 3. Desenvolvimento de Jogos Eletrônicos: [Veja aqui!](https://github.com/vmplayer/DevJogos-Curso)
