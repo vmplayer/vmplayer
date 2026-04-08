@@ -4,12 +4,14 @@ See this document in [Portuguese - Brazil](https://github.com/vmplayer/vmplayer/
 
 ### Languages I work with:
 
-| Language | Language Type | Current Level of Competency |
-| --- | --- | --- |
-| HTML5 | Hiperlink markup | 🟢🟢🟢🟢🟢 |
-| CSS3 | Style | 🟢🟢🟢🟢⚪ |
-| JavaScript | Programming | 🟢🟢🟢⚪⚪ |
-| C# | Programming \| Unity | 🟢🟢🟢⚪⚪ |
+| Language | Language Type | Side | Current Level of Competency |
+| --- | --- | --- | --- |
+| HTML5 | Hiperlink markup | Front-End | 🟢🟢🟢🟢🟢 |
+| CSS3 | Style | Front-End | 🟢🟢🟢🟢⚪ |
+| JavaScript | Programming | Front-End | 🟢🟢🟢🟢⚪ |
+| C# | Programming \| Unity | Back-End | 🟢🟢🟢⚪⚪ |
+| PHP | Server | Back-End | ⚪⚪⚪⚪⚪ |
+| C++ | Programming | Back-End | 🟢⚪⚪⚪⚪ |
 
 Competency levels will improve over time!
 
