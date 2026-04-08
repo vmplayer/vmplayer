@@ -10,8 +10,8 @@ See this document in [Portuguese - Brazil](https://github.com/vmplayer/vmplayer/
 | CSS3 | Style | Front-End | 🟢🟢🟢🟢⚪ |
 | JavaScript | Programming | Front-End | 🟢🟢🟢🟢⚪ |
 | C# | Programming \| Unity | Back-End | 🟢🟢🟢⚪⚪ |
-| PHP | Server | Back-End | ⚪⚪⚪⚪⚪ |
 | C++ | Programming | Back-End | 🟢⚪⚪⚪⚪ |
+| PHP | Server | Back-End | ⚪⚪⚪⚪⚪ |
 
 Competency levels will improve over time!
 
