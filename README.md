@@ -9,8 +9,8 @@ Veja este documento em [Inglês](https://github.com/vmplayer/vmplayer/blob/main/
 | CSS3 | Estilo | Front-End | 🟢🟢🟢🟢⚪ |
 | JavaScript | Programação | Front-End | 🟢🟢🟢🟢⚪ |
 | C# | Programação \| Unity | Back-End | 🟢🟢🟢⚪⚪ |
-| PHP | Servidor | Back-End | ⚪⚪⚪⚪⚪ |
 | C++ | Programação | Back-End | 🟢⚪⚪⚪⚪ |
+| PHP | Servidor | Back-End | ⚪⚪⚪⚪⚪ |
 
 O nível de competência irá aumentar ao longo do tempo!
 
