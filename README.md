@@ -23,7 +23,6 @@ O nível de competência irá aumentar ao longo do tempo!
 3. Desenvolvimento de Jogos Eletrônicos: [Veja aqui!](https://github.com/vmplayer/DevJogos-Curso)
 
 ### Meus projetos:
-1. Palavração: [Repositório](https://github.com/arturdsf/arturdsf.github.io) | [Site final](https://palavracao.com.br/)
-2. IchigoBot: [Repositório](https://github.com/vmplayer/ichigo-bot)
+1. IchigoBot: [Repositório](https://github.com/vmplayer/ichigo-bot)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F21O8JO8)
