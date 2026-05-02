@@ -5,6 +5,8 @@ Veja este documento em [Inglês](https://github.com/vmplayer/vmplayer/blob/main/
 ### O que eu faço:
 Atualmente tenho 18 anos, estudo programação praticamente sozinho. No momento estou focando mais no desenvolvimento web front-end (CSS3 e JavaScript), mas também tenho alguns projetos pessoais como um simulador espacial, que simula desde o nascimento até as mortes de estrelas e surgimentos de buracos negros (principalmente), seguindo os conceitos da astronomia e astrofísica.
 
+Atualmente estou cursando o TDS (Técnico em Desenvolvimento de Sistemas) no Senac-RS.
+
 ### Linguagens nas quais trabalho:
 | Linguagem | Tipo de Linguagem | Lado | Nível de Competência Atual |
 | --- | --- | --- | --- |
@@ -23,6 +25,8 @@ O nível de competência irá aumentar ao longo do tempo!
 3. Desenvolvimento de Jogos Eletrônicos: [Veja aqui!](https://github.com/vmplayer/DevJogos-Curso)
 
 ### Meus projetos:
-1. IchigoBot: [Repositório](https://github.com/vmplayer/ichigo-bot)
+1. Palavração: [Website](https://palavracao.com.br/) | [Repositório](https://github.com/arturdsf/arturdsf.github.io)
+2. VM Instalações: [Repositório](https://github.com/vmplayer/vm-instalacoes)
+3. IchigoBot: [Repositório](https://github.com/vmplayer/ichigo-bot)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F21O8JO8)
