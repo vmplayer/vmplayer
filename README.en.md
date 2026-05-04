@@ -29,5 +29,3 @@ Competency levels will improve over time!
 1. Palavração: [Website](https://palavracao.com.br/) | [Repository](https://github.com/arturdsf/arturdsf.github.io)
 2. VM Instalações: [Repository](https://github.com/vmplayer/vm-instalacoes)
 3. IchigoBot: [Repository](https://github.com/vmplayer/ichigo-bot)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F21O8JO8)
