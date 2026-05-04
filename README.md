@@ -28,5 +28,3 @@ O nível de competência irá aumentar ao longo do tempo!
 1. Palavração: [Website](https://palavracao.com.br/) | [Repositório](https://github.com/arturdsf/arturdsf.github.io)
 2. VM Instalações: [Repositório](https://github.com/vmplayer/vm-instalacoes)
 3. IchigoBot: [Repositório](https://github.com/vmplayer/ichigo-bot)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F21O8JO8)
