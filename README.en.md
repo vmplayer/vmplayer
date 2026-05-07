@@ -21,9 +21,10 @@ I am currently taking the TDS (Technical Course in Systems Development) at Senac
 Competency levels will improve over time!
 
 ### My repositories:
-1. HTML5 and CSS3: [Check it out!](https://github.com/vmplayer/html-css)
-2. JavaScript: [Check it out!](https://github.com/vmplayer/javascript)
-3. Video Game Development: [Check it out!](https://github.com/vmplayer/DevJogos-Curso)
+1. Systems Development Technician (TDS): [Check it out!!](https://github.com/vmplayer/TDS-Senac)
+2. Video Game Development: [Check it out!](https://github.com/vmplayer/DevJogos-Curso)
+3. HTML5 and CSS3: [Check it out!](https://github.com/vmplayer/html-css)
+4. JavaScript: [Check it out!](https://github.com/vmplayer/javascript)
 
 ### My projects:
 1. Palavração: [Website](https://palavracao.com.br/) | [Repository](https://github.com/arturdsf/arturdsf.github.io)
