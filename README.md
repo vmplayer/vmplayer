@@ -20,9 +20,10 @@ Atualmente estou cursando o TDS (Técnico em Desenvolvimento de Sistemas) no Sen
 O nível de competência irá aumentar ao longo do tempo!
 
 ### Meus repositórios principais:
-1. HTML5 e CSS3: [Veja aqui!](https://github.com/vmplayer/html-css)
-2. JavaScript: [Veja aqui!](https://github.com/vmplayer/javascript)
-3. Desenvolvimento de Jogos Eletrônicos: [Veja aqui!](https://github.com/vmplayer/DevJogos-Curso)
+1. Técnico em Desenvolvimento de Sistemas (TDS): [Veja aqui!](https://github.com/vmplayer/TDS-Senac)
+2. Desenvolvimento de Jogos Eletrônicos: [Veja aqui!](https://github.com/vmplayer/DevJogos-Curso)
+3. JavaScript: [Veja aqui!](https://github.com/vmplayer/javascript)
+4. HTML5 e CSS3: [Veja aqui!](https://github.com/vmplayer/html-css)
 
 ### Meus projetos:
 1. Palavração: [Website](https://palavracao.com.br/) | [Repositório](https://github.com/arturdsf/arturdsf.github.io)
