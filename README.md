@@ -11,7 +11,7 @@ Atualmente, sou estudante do **Técnico em Desenvolvimento de Sistemas (TDS)** n
 ### 👨‍💻 Um pouco mais sobre mim:
 * 💻 **Foco Atual:** Minha principal dedicação no momento é dominar o desenvolvimento web Front-end (especialmente CSS3 e JavaScript moderno), mas também me aventuro bastante no Back-end e na criação de lógicas com C# e C++.
 * 🌌 **Ciência & Astrofísica:** Fora do desenvolvimento tradicional, desenvolvo um simulador espacial focado no ciclo de vida das estrelas e no surgimento de buracos negros, utilizando modelagem matemática.
-* 🎮 **Hobbies:** No meu tempo livre, gosto de explorar jogos no PC (curto bastante RPGs, terror psicológico e ação-aventura, como *Persona*, *NieR* e afins) e acompanhar animes.
+* 🎮 **Hobbies:** No meu tempo livre, gosto de explorar jogos no PC (curto bastante RPGs, terror psicológico e ação-aventura, como *Persona*, *Hollow Knight*, *Plants vs. Zombies* e afins) e acompanhar animes.
 
 ---
 
@@ -42,8 +42,7 @@ Aqui estão alguns projetos práticos e sistemas que desenvolvi ou ajudei a cria
    > [Ver Repositório](https://github.com/vmplayer/ichigo-bot)
 3. 🏢 **VM Instalações:** Desenvolvimento de site institucional para apresentação de serviços técnicos profissionais.
    > [Ver Repositório](https://github.com/vmplayer/vm-instalacoes)
-4. 🌌 **Simulador Espacial:** Meu projeto pessoal (em andamento) de simulação de fenômenos celestes baseado em astronomia e astrofísica.
-
+   > 
 ---
 
 ## 📂 Repositórios de Estudo e Cursos
