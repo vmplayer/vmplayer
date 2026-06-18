@@ -9,9 +9,9 @@ Sou um desenvolvedor apaixonado por tecnologia de 18 anos, morador de São Leopo
 Atualmente, sou estudante do **Técnico em Desenvolvimento de Sistemas (TDS)** no Senac-RS, focado em construir uma base sólida para o mercado, com a meta de iniciar minha graduação em **Ciência da Computação** em 2027/2028.
 
 ### 👨‍💻 Um pouco mais sobre mim:
-* 💻 **Foco Atual:** Minha principal dedicação no momento é dominar o desenvolvimento web Front-end (especialmente CSS3 e JavaScript moderno), mas também me aventuro bastante no Back-end e na criação de lógicas com C# e C++.
-* 🌌 **Ciência & Astrofísica:** Fora do desenvolvimento tradicional, desenvolvo um simulador espacial focado no ciclo de vida das estrelas e no surgimento de buracos negros, utilizando modelagem matemática.
-* 🎮 **Hobbies:** No meu tempo livre, gosto de explorar jogos no PC (curto bastante RPGs, terror psicológico e ação-aventura, como *Persona*, *Hollow Knight*, *Plants vs. Zombies* e afins) e acompanhar animes.
+* 💻 **Foco Atual:** Minha principal dedicação no momento é dominar o desenvolvimento de sistemas e web, mas, futuramente, meu maior foco será o desenvolvimento de jogos.
+* 🌌 **Ciência & Astrofísica:** Fora dos projetos comuns, eu desenvolvo um simulador espacial focado no ciclo de vida das estrelas e no surgimento de buracos negros, utilizando lógica matemática.
+* 🎮 **Hobbies:** No meu tempo livre, gosto de jogar (curto bastante RPGs, terror psicológico e visual novels, como *Persona*, *Hollow Knight*, *Plants vs. Zombies* e outros) e assistir animes.
 
 ---
 
@@ -23,21 +23,21 @@ Estou sempre buscando evoluir. Abaixo está o meu nível de afinidade atual com 
 | :--- | :--- | :---: | :---: |
 | **HTML5** | Estruturação e Semântica | Front-End | 🟢🟢🟢🟢🟢 |
 | **CSS3** | Estilização e Responsividade | Front-End | 🟢🟢🟢🟢⚪ |
-| **JavaScript** | Dinamicidade e Lógica | Front-End | 🟢🟢🟢🟢⚪ |
-| **C#** | Programação Orientada a Objetos / Unity | Back-End | 🟢🟢🟢⚪⚪ |
-| **C++** | Lógica de Baixo Nível / Estruturas | Back-End | 🟢⚪⚪⚪⚪ |
+| **JavaScript** | Dinâmica e Lógica | Front-End | 🟢🟢🟢🟢⚪ |
+| **C#** | Programação Orientada a Objetos \| Unity | Back-End | 🟢🟢🟢⚪⚪ |
+| **C++** | Lógica de Baixo Nível \| Estruturas | Back-End | 🟢⚪⚪⚪⚪ |
 | **PHP** | Lógica de Servidor | Back-End | ⚪⚪⚪⚪⚪ |
 
-> 💡 *Nota: Este nível de competência é dinâmico e reflete meu aprendizado contínuo. Além das linguagens acima, também utilizo ferramentas como **Git, GitHub, Vercel** e ambientes em nuvem para deploy.*
+> 💡 *Nota: Este nível de competência vai subir muito com o tempo. Além das linguagens acima, também utilizo ferramentas como **Git, GitHub, Vercel** e ambientes em nuvem para deploy.*
 
 ---
 
 ## 🚀 Meus Projetos em Destaque
 
-Aqui estão alguns projetos práticos e sistemas que desenvolvi ou ajudei a criar:
+Aqui estão alguns projetos práticos e sistemas que desenvolvi:
 
-1. 🕹️ **Palavração:** Website e plataforma de jogos. 
-   > [Acessar Website](https://palavracao.com.br/) | [Ver Repositório](https://github.com/arturdsf/arturdsf.github.io)
+1. 🕹️ **Palavração:** Website e quatro jogos infantis. 
+   > [Ver Repositório](https://github.com/arturdsf/arturdsf.github.io) | [Acessar Website](https://palavracao.com.br/)
 2. 🤖 **IchigoBot:** Um bot especializado e customizado construído para servidores do Discord.
    > [Ver Repositório](https://github.com/vmplayer/ichigo-bot)
 3. 🏢 **VM Instalações:** Desenvolvimento de site institucional para apresentação de serviços técnicos profissionais.
