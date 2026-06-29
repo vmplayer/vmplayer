@@ -4,9 +4,9 @@
 
 # 👋 Olá. Seja bem-vindo ao meu perfil!
 
-Sou um desenvolvedor apaixonado por tecnologia de 18 anos, morador de São Leopoldo (RS). Estudo programação de forma autodidata e adoro entender como as coisas funcionam por baixo dos panos — seja no código, no desenvolvimento de jogos ou nos mistérios do universo.
+Sou um desenvolvedor de 18 anos, morador de São Leopoldo (RS). Estudo programação por conta própria e só gosto de entender como as coisas funcionam — seja no código, no desenvolvimento de jogos ou nos mistérios do universo (um dia explico essa parte).
 
-Atualmente, sou estudante do **Técnico em Desenvolvimento de Sistemas (TDS)** no Senac-RS, focado em construir uma base sólida para o mercado, com a meta de iniciar minha graduação em **Ciência da Computação** em 2027/2028.
+Atualmente, sou estudante do **Técnico em Desenvolvimento de Sistemas (TDS)** no Senac São Leopoldo, focado em construir uma base sólida para o mercado, com a meta de iniciar minha graduação em **Ciência da Computação** em 2027/2028.
 
 ### 👨‍💻 Um pouco mais sobre mim:
 * 💻 **Foco Atual:** Minha principal dedicação no momento é dominar o desenvolvimento de sistemas e web, mas, futuramente, meu maior foco será o desenvolvimento de jogos.
@@ -17,7 +17,7 @@ Atualmente, sou estudante do **Técnico em Desenvolvimento de Sistemas (TDS)** n
 
 ## 🛠️ Tecnologias e Níveis de Competência
 
-Estou sempre buscando evoluir. Abaixo está o meu nível de afinidade atual com as linguagens que estudo e utilizo nos meus projetos:
+Estou sempre buscando evoluir. Abaixo fica o meu nível de afinidade atual com as linguagens que estudo e utilizo nos meus projetos:
 
 | Linguagem | Foco / Tipo | Ambiente | Competência Atual |
 | :--- | :--- | :---: | :---: |
@@ -28,7 +28,7 @@ Estou sempre buscando evoluir. Abaixo está o meu nível de afinidade atual com 
 | **C++** | Lógica de Baixo Nível \| Estruturas | Back-End | 🟢⚪⚪⚪⚪ |
 | **PHP** | Lógica de Servidor | Back-End | ⚪⚪⚪⚪⚪ |
 
-> 💡 *Nota: Este nível de competência vai subir muito com o tempo. Além das linguagens acima, também utilizo ferramentas como **Git, GitHub, Vercel** e ambientes em nuvem para deploy.*
+> 💡 *Nota: O nível de competência irá crescer ao longo do tempo. Além das linguagens acima, também utilizo ferramentas como **Git, GitHub, Vercel** e ambientes em nuvem para deploy.*
 
 ---
 
@@ -36,18 +36,18 @@ Estou sempre buscando evoluir. Abaixo está o meu nível de afinidade atual com 
 
 Aqui estão alguns projetos práticos e sistemas que desenvolvi:
 
-1. 🕹️ **Palavração:** Website e quatro jogos infantis. 
+1. 🕹️ **Palavração:** Website e quatro jogos infantis para o livro "Cadê Meu Quero-Quero Que Tanto Espero?". 
    > [Ver Repositório](https://github.com/arturdsf/arturdsf.github.io) | [Acessar Website](https://palavracao.com.br/)
-2. 🤖 **IchigoBot:** Um bot especializado e customizado construído para servidores do Discord.
+2. 🤖 **IchigoBot:** Um bot de controle de aniversários construído para servidores do Discord.
    > [Ver Repositório](https://github.com/vmplayer/ichigo-bot)
-3. 🏢 **VM Instalações:** Desenvolvimento de site institucional para apresentação de serviços técnicos profissionais.
+3. 🏢 **VM Instalações:** Site para apresentação de serviços profissionais.
    > [Ver Repositório](https://github.com/vmplayer/vm-instalacoes)
-   > 
+
 ---
 
 ## 📂 Repositórios de Estudo e Cursos
 
-Acompanhe minha evolução técnica e os exercícios que realizo no dia a dia:
+Acompanhe minha evolução e os exercícios que realizo no dia a dia:
 
 * 🎓 **Técnico em Desenvolvimento de Sistemas (TDS):** [Acessar repositório](https://github.com/vmplayer/TDS-Senac)
 * 🎮 **Desenvolvimento de Jogos Eletrônicos:** [Acessar repositório](https://github.com/vmplayer/DevJogos-Curso)
@@ -56,7 +56,7 @@ Acompanhe minha evolução técnica e os exercícios que realizo no dia a dia:
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vmplayer&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=8" alt="Estatísticas das linguagens mais usadas" />
