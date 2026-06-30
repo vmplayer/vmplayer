@@ -20,7 +20,7 @@ I am currently pursuing the Systems Development Technician course (TDS) at Senac
 
 I am always looking to grow. Below is my current level of proficiency with the languages ​​I study and use in my projects:
 
-| Linguagem | Foco / Tipo | Ambiente | Competência Atual |
+| Language | Focus / Type | Environment | Current Proficiency |
 | :--- | :--- | :---: | :---: |
 | **HTML5** | Structuring and Semantics | Front-End | 🟢🟢🟢🟢🟢 |
 | **CSS3** | Styling and Responsiveness | Front-End | 🟢🟢🟢🟢⚪ |
