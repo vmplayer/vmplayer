@@ -20,14 +20,14 @@ I am currently pursuing the Systems Development Technician course (TDS) at Senac
 
 I am always looking to grow. Below is my current level of proficiency with the languages ​​I study and use in my projects:
 
-| Language | Focus / Type | Environment | Current Proficiency |
-| :--- | :--- | :---: | :---: |
-| **HTML5** | Structuring and Semantics | Front-End | 🟢🟢🟢🟢🟢 |
-| **CSS3** | Styling and Responsiveness | Front-End | 🟢🟢🟢🟢⚪ |
-| **JavaScript** | Dinamics and logic | Front-End | 🟢🟢🟢🟢⚪ |
-| **C#** | Object-Oriented Programming \| Unity | Back-End | 🟢🟢🟢⚪⚪ |
-| **C++** | Low-Level Logic \| Estruturas | Back-End | 🟢⚪⚪⚪⚪ |
-| **PHP** | Server-side Logic | Back-End | ⚪⚪⚪⚪⚪ |
+| Language       | Focus / Type                         | Environment | Current Proficiency |
+| :------------- | :----------------------------------- | :---------: | :-----------------: |
+| **HTML5**      | Structuring and Semantics            | Front-End   | 🟢🟢🟢🟢🟢       |
+| **CSS3**       | Styling and Responsiveness           | Front-End   | 🟢🟢🟢🟢⚪       |
+| **JavaScript** | Dinamics and logic                   | Front-End   | 🟢🟢🟢🟢⚪       |
+| **C#**         | Object-Oriented Programming \| Unity | Back-End    | 🟢🟢🟢⚪⚪       |
+| **C++**        | Low-Level Logic \| Estruturas        | Back-End    | 🟢⚪⚪⚪⚪       |
+| **PHP**        | Server-side Logic                    | Back-End    | ⚪⚪⚪⚪⚪       |
 
 > 💡 *Note: My proficiency level will grow over time. In addition to the languages ​​mentioned above, I also use tools such as **Git, GitHub, and Vercel**, as well as cloud environments for deployment.*
 
