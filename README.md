@@ -19,14 +19,14 @@ Atualmente, sou estudante do **Técnico em Desenvolvimento de Sistemas (TDS)** n
 
 Estou sempre buscando evoluir. Abaixo fica o meu nível de afinidade atual com as linguagens que estudo e utilizo nos meus projetos:
 
-| Linguagem | Foco / Tipo | Ambiente | Competência Atual |
-| :--- | :--- | :---: | :---: |
-| **HTML5** | Estruturação e Semântica | Front-End | 🟢🟢🟢🟢🟢 |
-| **CSS3** | Estilização e Responsividade | Front-End | 🟢🟢🟢🟢⚪ |
-| **JavaScript** | Dinâmica e Lógica | Front-End | 🟢🟢🟢🟢⚪ |
-| **C#** | Programação Orientada a Objetos \| Unity | Back-End | 🟢🟢🟢⚪⚪ |
-| **C++** | Lógica de Baixo Nível \| Estruturas | Back-End | 🟢⚪⚪⚪⚪ |
-| **PHP** | Lógica de Servidor | Back-End | ⚪⚪⚪⚪⚪ |
+| Linguagem      | Foco \| Tipo                              | Ambiente  | Competência Atual |
+| :------------- | :--------------------------------------- | :-------: | :---------------: |
+| **HTML5**      | Estruturação e Semântica                 | Front-End | 🟢🟢🟢🟢🟢      |
+| **CSS3**       | Estilização e Responsividade             | Front-End | 🟢🟢🟢🟢⚪      |
+| **JavaScript** | Dinâmica e Lógica                        | Front-End | 🟢🟢🟢🟢⚪      |
+| **C#**         | Programação Orientada a Objetos \| Unity | Back-End  | 🟢🟢🟢⚪⚪      |
+| **C++**        | Lógica de Baixo Nível \| Estruturas      | Back-End  | 🟢⚪⚪⚪⚪      |
+| **PHP**        | Lógica de Servidor                       | Back-End  | ⚪⚪⚪⚪⚪      |
 
 > 💡 *Nota: O nível de competência irá crescer ao longo do tempo. Além das linguagens acima, também utilizo ferramentas como **Git, GitHub, Vercel** e ambientes em nuvem para deploy.*
 
