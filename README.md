@@ -19,7 +19,7 @@ Atualmente, sou estudante do **Técnico em Desenvolvimento de Sistemas (TDS)** n
 
 Estou sempre buscando evoluir. Abaixo fica o meu nível de afinidade atual com as linguagens que estudo e utilizo nos meus projetos:
 
-| Linguagem      | Foco \| Tipo                              | Ambiente  | Competência Atual |
+| Linguagem      | Foco \| Tipo                             | Ambiente  | Competência Atual |
 | :------------- | :--------------------------------------- | :-------: | :---------------: |
 | **HTML5**      | Estruturação e Semântica                 | Front-End | 🟢🟢🟢🟢🟢      |
 | **CSS3**       | Estilização e Responsividade             | Front-End | 🟢🟢🟢🟢⚪      |
