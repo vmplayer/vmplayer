@@ -51,6 +51,7 @@ Acompanhe minha evolução e os exercícios que realizo no dia a dia:
 
 * 🎓 **Técnico em Desenvolvimento de Sistemas (TDS):** [Acessar repositório](https://github.com/vmplayer/TDS-Senac)
 * 🎮 **Desenvolvimento de Jogos Eletrônicos:** [Acessar repositório](https://github.com/vmplayer/DevJogos-Curso)
+* 🖨️ **C, C++ e C#:** [Acessar repositório](https://github.com/vmplayer/cspp)
 * 🎨 **Base Front-End (HTML5 e CSS3):** [Acessar repositório](https://github.com/vmplayer/html-css)
 * ⚡ **Ecossistema JavaScript:** [Acessar repositório](https://github.com/vmplayer/javascript)
 
