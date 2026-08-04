@@ -34,6 +34,7 @@ Estou sempre buscando evoluir. Abaixo fica o meu nível de afinidade atual com a
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/330px-Electron_Software_Framework_Logo.svg.png?_=20190331235051" alt="Logotipo do Electron" width="50px" height="50px">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" alt="Logotipo do GitHub" width="50px" height="50px">
   <img src="https://github.com/user-attachments/assets/82325369-bb3f-4671-8691-ae067b1449ed" alt="Logotipo da Unity" width="50px" height="50px">
+  <img src="https://github.com/user-attachments/assets/fee16523-b293-4326-9930-6628088e47cd" alt="Logotipo do Discord.js" width="50px" height="50px">
 </div>
 
 ---
