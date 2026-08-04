@@ -22,12 +22,13 @@ I am always looking to grow. Below is my current level of proficiency with the l
 
 | Language       | Focus / Type                         | Environment | Current Proficiency |
 | :------------- | :----------------------------------- | :---------: | :-----------------: |
-| **HTML5**      | Structuring and Semantics            | Front-End   | 🟢🟢🟢🟢🟢       |
-| **CSS3**       | Styling and Responsiveness           | Front-End   | 🟢🟢🟢🟢⚪       |
-| **JavaScript** | Dinamics and logic                   | Front-End   | 🟢🟢🟢🟢⚪       |
-| **C#**         | Object-Oriented Programming \| Unity | Back-End    | 🟢🟢🟢⚪⚪       |
-| **C++**        | Low-Level Logic \| Estruturas        | Back-End    | 🟢⚪⚪⚪⚪       |
-| **PHP**        | Server-side Logic                    | Back-End    | ⚪⚪⚪⚪⚪       |
+| **HTML5**      | Structuring and Semantics            | Front-End   | 🟢🟢🟢🟢🟢        |
+| **CSS3**       | Styling and Responsiveness           | Front-End   | 🟢🟢🟢🟢⚪        |
+| **JavaScript** | Dinamics and logic                   | Front-End   | 🟢🟢🟢🟢⚪        |
+| **C#**         | Object-Oriented Programming \| Unity | Back-End    | 🟢🟢🟢⚪⚪        |
+| **C++**        | Low-Level Logic \| Estruturas        | Back-End    | 🟢⚪⚪⚪⚪        |
+| **PHP**        | Server-side Logic                    | Back-End    | ⚪⚪⚪⚪⚪        |
+| **SQL**        | Database                             | Back-End    | ⚪⚪⚪⚪⚪        |
 
 ### Tools:
 
@@ -36,6 +37,7 @@ I am always looking to grow. Below is my current level of proficiency with the l
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" alt="GitHub logo" width="50px" height="50px">
   <img src="https://github.com/user-attachments/assets/82325369-bb3f-4671-8691-ae067b1449ed" alt="Unity logo" width="50px" height="50px">
   <img src="https://github.com/user-attachments/assets/fee16523-b293-4326-9930-6628088e47cd" alt="Discord.js logo" width="50px" height="50px">
+  <img src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL Workbench logo" width="50px" height="50px">
 </div>
 
 ---
