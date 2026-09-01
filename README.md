@@ -24,10 +24,10 @@ Estou sempre buscando evoluir. Abaixo fica o meu nível de afinidade atual com a
 | **HTML5**      | Estruturação e Semântica                 | Front-End | 🟢🟢🟢🟢🟢      |
 | **CSS3**       | Estilização e Responsividade             | Front-End | 🟢🟢🟢🟢⚪      |
 | **JavaScript** | Dinâmica e Lógica                        | Front-End | 🟢🟢🟢🟢⚪      |
+| **SQL**        | Banco de Dados \| MySQL                  | Back-End  | 🟢🟢🟢⚪⚪      |
 | **C#**         | Programação Orientada a Objetos \| Unity | Back-End  | 🟢🟢🟢⚪⚪      |
 | **C++**        | Lógica de Baixo Nível \| Estruturas      | Back-End  | 🟢⚪⚪⚪⚪      |
 | **PHP**        | Lógica de Servidor                       | Back-End  | ⚪⚪⚪⚪⚪      |
-| **SQL**        | Banco de Dados                           | Back-End  | ⚪⚪⚪⚪⚪      |
 
 ### Ferramentas:
 
