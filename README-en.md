@@ -25,10 +25,10 @@ I am always looking to grow. Below is my current level of proficiency with the l
 | **HTML5**      | Structuring and Semantics            | Front-End   | 🟢🟢🟢🟢🟢        |
 | **CSS3**       | Styling and Responsiveness           | Front-End   | 🟢🟢🟢🟢⚪        |
 | **JavaScript** | Dinamics and logic                   | Front-End   | 🟢🟢🟢🟢⚪        |
+| **SQL**        | Database \| MySQL                    | Back-End    | 🟢🟢🟢⚪⚪        |
 | **C#**         | Object-Oriented Programming \| Unity | Back-End    | 🟢🟢🟢⚪⚪        |
 | **C++**        | Low-Level Logic \| Estruturas        | Back-End    | 🟢⚪⚪⚪⚪        |
 | **PHP**        | Server-side Logic                    | Back-End    | ⚪⚪⚪⚪⚪        |
-| **SQL**        | Database                             | Back-End    | ⚪⚪⚪⚪⚪        |
 
 ### Tools:
 
