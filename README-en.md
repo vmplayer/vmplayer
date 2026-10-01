@@ -27,6 +27,7 @@ I am always looking to grow. Below is my current level of proficiency with the l
 | **JavaScript** | Dinamics and logic                   | Front-End   | 🟢🟢🟢🟢⚪        |
 | **SQL**        | Database \| MySQL                    | Back-End    | 🟢🟢🟢⚪⚪        |
 | **C#**         | Object-Oriented Programming \| Unity | Back-End    | 🟢🟢🟢⚪⚪        |
+| **TypeScript** | Typing and Backend                   | Back-End    | 🟢🟢⚪⚪⚪        |
 | **C++**        | Low-Level Logic \| Estruturas        | Back-End    | 🟢⚪⚪⚪⚪        |
 | **PHP**        | Server-side Logic                    | Back-End    | ⚪⚪⚪⚪⚪        |
 
