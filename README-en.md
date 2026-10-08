@@ -31,7 +31,7 @@ I am always looking to grow. Below is my current level of proficiency with the l
 | **C++**        | Low-Level Logic \| Estruturas        | Back-End    | 🟢⚪⚪⚪⚪        |
 | **PHP**        | Server-side Logic                    | Back-End    | ⚪⚪⚪⚪⚪        |
 
-### Tools:
+### Frameworks and Tools:
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/330px-Electron_Software_Framework_Logo.svg.png?_=20190331235051" alt="Electron logo" width="50px" height="50px">
