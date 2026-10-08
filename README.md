@@ -30,7 +30,7 @@ Estou sempre buscando evoluir. Abaixo fica o meu nível de afinidade atual com a
 | **C++**        | Lógica de Baixo Nível \| Estruturas      | Back-End  | 🟢⚪⚪⚪⚪      |
 | **PHP**        | Lógica de Servidor                       | Back-End  | ⚪⚪⚪⚪⚪      |
 
-### Ferramentas:
+### Frameworks e Ferramentas:
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/330px-Electron_Software_Framework_Logo.svg.png?_=20190331235051" alt="Logotipo do Electron" width="50px" height="50px">
