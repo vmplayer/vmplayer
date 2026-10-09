@@ -29,6 +29,7 @@ I am always looking to grow. Below is my current level of proficiency with the l
 | **C#**         | Object-Oriented Programming \| Unity | Back-End    | 🟢🟢🟢⚪⚪        |
 | **TypeScript** | Typing and Backend                   | Back-End    | 🟢🟢⚪⚪⚪        |
 | **C++**        | Low-Level Logic \| Estruturas        | Back-End    | 🟢⚪⚪⚪⚪        |
+| **Python**     | APIs, bots, ML, IA                   | Back-End    | 🟢⚪⚪⚪⚪        |
 | **PHP**        | Server-side Logic                    | Back-End    | ⚪⚪⚪⚪⚪        |
 
 ### Frameworks and Tools:
