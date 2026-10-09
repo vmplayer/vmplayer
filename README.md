@@ -28,6 +28,7 @@ Estou sempre buscando evoluir. Abaixo fica o meu nível de afinidade atual com a
 | **C#**         | Programação Orientada a Objetos \| Unity | Back-End  | 🟢🟢🟢⚪⚪      |
 | **TypeScript** | Tipagem e Backend                        | Back-End  | 🟢🟢⚪⚪⚪      |
 | **C++**        | Lógica de Baixo Nível \| Estruturas      | Back-End  | 🟢⚪⚪⚪⚪      |
+| **Python**     | APIs, bots, ML, IA                       | Back-End  | 🟢⚪⚪⚪⚪      |
 | **PHP**        | Lógica de Servidor                       | Back-End  | ⚪⚪⚪⚪⚪      |
 
 ### Frameworks e Ferramentas:
