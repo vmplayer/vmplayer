@@ -72,6 +72,7 @@ Follow my progress and the exercises I work on daily:
 
 * 🎓 **Systems Development Technician (TDS):** [Access repository](https://github.com/vmplayer/TDS-Senac)
 * 🎮 **Video Game Development:** [Access repository](https://github.com/vmplayer/DevJogos-Curso)
+* 🐍 **Python and Artificial Inteligence:** [Access repository](https://github.com/vmplayer/python-senac)
 * 🖨️ **C, C++ and C#:** [Access repository](https://github.com/vmplayer/cspp)
 * 🎨 **Front-End Fundamentals (HTML5 & CSS3):** [Access repository](https://github.com/vmplayer/html-css)
 * ⚡ **JavaScript Ecosystem:** [Access repository](https://github.com/vmplayer/javascript)
