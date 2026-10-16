@@ -22,8 +22,6 @@ Atualmente, sou um profissional qualificado em Desenvolvimento de Jogos Eletrôn
 | Desenvolvimento de Jogos Eletrônicos         | Senac São Leopoldo      | Qualificação Profissional | 2024 - 2024            |
 | Desenvolvimento de Sistemas e IAs com Python | Senac Unisinos \| RS TI | Aperfeiçoamento           | 2026 - 2027 (Cursando) |
 
----
-
 ## 🛠️ Tecnologias e Níveis de Competência
 
 Estou sempre buscando evoluir. Abaixo fica o meu nível de afinidade atual com as linguagens que estudo e utilizo nos meus projetos:
@@ -50,8 +48,6 @@ Estou sempre buscando evoluir. Abaixo fica o meu nível de afinidade atual com a
   <img src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" alt="Logotipo do MySQL Workbench" width="50px" height="50px">
 </div>
 
----
-
 ## 🚀 Meus Projetos em Destaque
 
 Aqui estão alguns projetos práticos e sistemas que desenvolvi:
@@ -62,8 +58,6 @@ Aqui estão alguns projetos práticos e sistemas que desenvolvi:
    > [Ver Repositório](https://github.com/vmplayer/ichigo-bot)
 3. 🏢 **VM Instalações:** Site para apresentação de serviços profissionais.
    > [Ver Repositório](https://github.com/vmplayer/vm-instalacoes)
-
----
 
 ## 📂 Repositórios de Estudo e Cursos
 
