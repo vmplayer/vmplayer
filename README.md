@@ -2,16 +2,25 @@
   <p><i>Veja este documento em <a href="https://github.com/vmplayer/vmplayer/blob/main/README-en.md">Inglês</a>.</i></p>
 </div>
 
-# 👋 Olá. Seja bem-vindo ao meu perfil!
+# 👋 Olá, Jovem Padawan!
 
 Sou um desenvolvedor de 18 anos, morador de São Leopoldo (RS). Estudo programação por conta própria e só gosto de entender como as coisas funcionam — seja no código, no desenvolvimento de jogos ou nos mistérios do universo (um dia explico essa parte).
 
-Atualmente, sou estudante do **Técnico em Desenvolvimento de Sistemas (TDS)** no Senac São Leopoldo, focado em construir uma base sólida para o mercado, com a meta de iniciar minha graduação em **Ciência da Computação** em 2027/2028.
+Atualmente, sou um profissional qualificado em Desenvolvimento de Jogos Eletrônicos, e sou estudante do **Técnico em Desenvolvimento de Sistemas (TDS)** no Senac São Leopoldo, focado em construir uma base sólida para o mercado, com a meta de iniciar minha graduação em **Ciência da Computação** em 2028.
 
 ### 👨‍💻 Um pouco mais sobre mim:
 * 💻 **Foco Atual:** Minha principal dedicação no momento é dominar o desenvolvimento de sistemas e web, mas, futuramente, meu maior foco será o desenvolvimento de jogos.
 * 🌌 **Ciência & Astrofísica:** Fora dos projetos comuns, eu desenvolvo um simulador espacial focado no ciclo de vida das estrelas e no surgimento de buracos negros, utilizando lógica matemática.
 * 🎮 **Hobbies:** No meu tempo livre, gosto de jogar (curto bastante RPGs, terror psicológico e visual novels, como *Persona*, *Hollow Knight*, *Plants vs. Zombies* e outros) e assistir animes.
+
+---
+
+### 🗄️ Minhas formações
+| Título da formação                           | Instituição             | Tipo                      | Ano                    |
+| :------------------------------------------- | :---------------------- | :------------------------ | :--------------------: |
+| Técnico em Desenvolvimento de Sistemas       | Senac São Leopoldo      | Técnico                   | 2026 - 2028 (Cursando) |
+| Desenvolvimento de Jogos Eletrônicos         | Senac São Leopoldo      | Qualificação Profissional | 2024 - 2024            |
+| Desenvolvimento de Sistemas e IAs com Python | Senac Unisinos \| RS TI | Aperfeiçoamento           | 2026 - 2027 (Cursando) |
 
 ---
 
