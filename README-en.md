@@ -1,18 +1,27 @@
 <div align="center">
-  <p><i>See this document in  <a href="https://github.com/vmplayer/vmplayer/blob/main/README.md">Portuguese - Brazil</a>.</i></p>
+  <p><i>Veja esse documento em <a href="https://github.com/vmplayer/vmplayer/blob/main/README.md">Português - Brasil</a>.</i></p>
 </div>
 
-# 👋 Hello! Welcome to my profile!
+# 👋 Hello there!
 
 ### What I do:
 I’m 18 years old and live in São Leopoldo (RS). I study programming almost entirely on my own and enjoy understanding how things work—whether it’s code, game development, or the mysteries of the universe (I’ll talk about that part someday).
 
-I am currently pursuing the Systems Development Technician course (TDS) at Senac São Leopoldo, focusing on building a solid foundation for the job market, with the goal of starting a **Computer Science** degree in 2027/2028.
+I am currently pursuing the Systems Development Technician course (TDS) at Senac São Leopoldo, focusing on building a solid foundation for the job market, with the goal of starting a **Computer Science** degree in 2028.
 
 ### 👨‍💻 A little more about me:
 * 💻 **Current Focus:** My main focus right now is mastering systems and web development, though my primary focus in the future will be game development.
 * 🌌 **Science & Astrophysics:** Beyond my standard projects, I am developing a space simulator focused on the stellar life cycle and the formation of black holes, using mathematical logic.
 * 🎮 **Hobbies:** In my free time, I enjoy gaming (I really like RPGs, psychological horror, and visual novels—such as *Persona*, *Hollow Knight*, *Plants vs. Zombies*, and others) and watching anime.
+
+---
+
+### 🗄️ Minhas formações
+| Degree / Course Title                        | Institution             | Type                       | Year                      |
+| :------------------------------------------- | :---------------------- | :------------------------- | :-----------------------: |
+| Technical Degree in Systems Development      | Senac São Leopoldo      | Technical Degree           | 2026 - 2028 (In Progress) |
+| Electronic Game Development                  | Senac São Leopoldo      | Professional Certification | 2024 - 2024               |
+| Systems Development & AI with Python         | Senac Unisinos \| RS TI | Professional Development   | 2026 - 2027 (In Progress) |
 
 ---
 
