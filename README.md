@@ -1,5 +1,5 @@
 <div align="center">
-  <p><i>Veja este documento em <a href="https://github.com/vmplayer/vmplayer/blob/main/README-en.md">Inglês</a>.</i></p>
+  <p><i>See this document in <a href="https://github.com/vmplayer/vmplayer/blob/main/README-en.md">English</a>.</i></p>
 </div>
 
 # 👋 Olá, Jovem Padawan!
