@@ -23,8 +23,6 @@ I am currently pursuing the Systems Development Technician course (TDS) at Senac
 | Electronic Game Development                  | Senac São Leopoldo      | Professional Certification | 2024 - 2024               |
 | Systems Development & AI with Python         | Senac Unisinos \| RS TI | Professional Development   | 2026 - 2027 (In Progress) |
 
----
-
 ## 🛠️ Tecnologies and Competency levels
 
 I am always looking to grow. Below is my current level of proficiency with the languages ​​I study and use in my projects:
@@ -51,8 +49,6 @@ I am always looking to grow. Below is my current level of proficiency with the l
   <img src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL Workbench logo" width="50px" height="50px">
 </div>
 
----
-
 ## 🚀 Featured Projects
 
 Here are some practical projects and systems I’ve developed:
@@ -63,8 +59,6 @@ Here are some practical projects and systems I’ve developed:
 > [View Repository](https://github.com/vmplayer/ichigo-bot)
 3. 🏢 **VM Instalações:** A website showcasing professional services. 
 > [View Repository](https://github.com/vmplayer/vm-instalacoes)
-
----
 
 ## 📂 Study Repositories & Courses
 
