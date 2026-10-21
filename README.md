@@ -29,13 +29,13 @@ Estou sempre buscando evoluir. Abaixo fica o meu nível de afinidade atual com a
 | Linguagem      | Foco \| Tipo                             | Ambiente  | Competência Atual |
 | :------------- | :--------------------------------------- | :-------: | :---------------: |
 | **HTML5**      | Estruturação e Semântica                 | Front-End | 🟢🟢🟢🟢🟢      |
+| **JavaScript** | Dinâmica e Lógica                        | Front-End | 🟢🟢🟢🟢🟢      |
 | **CSS3**       | Estilização e Responsividade             | Front-End | 🟢🟢🟢🟢⚪      |
-| **JavaScript** | Dinâmica e Lógica                        | Front-End | 🟢🟢🟢🟢⚪      |
+| **Python**     | APIs, bots, ML, IA                       | Back-End  | 🟢🟢🟢⚪⚪      |
 | **SQL**        | Banco de Dados \| MySQL                  | Back-End  | 🟢🟢🟢⚪⚪      |
 | **C#**         | Programação Orientada a Objetos \| Unity | Back-End  | 🟢🟢🟢⚪⚪      |
 | **TypeScript** | Tipagem e Backend                        | Back-End  | 🟢🟢⚪⚪⚪      |
 | **C++**        | Lógica de Baixo Nível \| Estruturas      | Back-End  | 🟢⚪⚪⚪⚪      |
-| **Python**     | APIs, bots, ML, IA                       | Back-End  | 🟢⚪⚪⚪⚪      |
 | **PHP**        | Lógica de Servidor                       | Back-End  | ⚪⚪⚪⚪⚪      |
 
 ### Frameworks e Ferramentas:
