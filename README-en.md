@@ -30,13 +30,13 @@ I am always looking to grow. Below is my current level of proficiency with the l
 | Language       | Focus / Type                         | Environment | Current Proficiency |
 | :------------- | :----------------------------------- | :---------: | :-----------------: |
 | **HTML5**      | Structuring and Semantics            | Front-End   | 🟢🟢🟢🟢🟢        |
+| **JavaScript** | Dinamics and logic                   | Front-End   | 🟢🟢🟢🟢🟢        |
 | **CSS3**       | Styling and Responsiveness           | Front-End   | 🟢🟢🟢🟢⚪        |
-| **JavaScript** | Dinamics and logic                   | Front-End   | 🟢🟢🟢🟢⚪        |
+| **Python**     | APIs, bots, ML, IA                   | Back-End    | 🟢🟢🟢⚪⚪        |
 | **SQL**        | Database \| MySQL                    | Back-End    | 🟢🟢🟢⚪⚪        |
 | **C#**         | Object-Oriented Programming \| Unity | Back-End    | 🟢🟢🟢⚪⚪        |
 | **TypeScript** | Typing and Backend                   | Back-End    | 🟢🟢⚪⚪⚪        |
 | **C++**        | Low-Level Logic \| Estruturas        | Back-End    | 🟢⚪⚪⚪⚪        |
-| **Python**     | APIs, bots, ML, IA                   | Back-End    | 🟢⚪⚪⚪⚪        |
 | **PHP**        | Server-side Logic                    | Back-End    | ⚪⚪⚪⚪⚪        |
 
 ### Frameworks and Tools:
